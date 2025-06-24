@@ -43,15 +43,15 @@ The script expects the dataset to be organized in a specific directory structure
 
 For this project, the structure should look like this:
 
-dataset/
-├── class_a/ (e.g., alpacas)
-│ ├── image_1.jpg
-│ ├── image_2.jpg
-│ └── ...
-└── class_b/ (e.g., not_alpacas)
-├── image_x.jpg
-├── image_y.jpg
-└── ...
+- `dataset/`
+  - `class_a/` (e.g., alpacas)
+    - `image_1.jpg`
+    - `image_2.jpg`
+    - `...`
+  - `class_b/` (e.g., not_alpacas)
+    - `image_x.jpg`
+    - `image_y.jpg`
+    - `...`
 
 The script will automatically infer the class names from the subdirectory names and split the data into training (80%) and validation (20%) sets.
 
