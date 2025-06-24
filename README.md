@@ -14,8 +14,6 @@ The example code is structured to classify images of alpacas, but it can be easi
   - [Phase 2: Fine-Tuning](#phase-2-fine-tuning)
 - [Results](#results)
 - [Prerequisites](#prerequisites)
-- [How to Run](#how-to-run)
-- [Code Breakdown](#code-breakdown)
 
 ## Project Overview
 
