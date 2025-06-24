@@ -1,4 +1,4 @@
-# Transfer-Learning-with-MobileNet
+# Transfer Learning with MobileNet
 
 This project demonstrates how to build and train a powerful binary image classifier using transfer learning. It leverages the pre-trained MobileNetV2 model, fine-tuning it on a custom dataset. The process includes data loading, augmentation, feature extraction, and fine-tuning for optimal performance.
 
